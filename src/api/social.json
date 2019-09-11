@@ -1,0 +1,25 @@
+{
+    "list": [
+        {
+            "id": "00",
+            "name": "Facebook",
+            "icon": "http://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png",
+            "description": "Facebook, Inc. is an American online social media and social networking service company based in Menlo Park, California. It was founded by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.",
+            "link": "https://facebook.com"
+        },
+        {
+            "id": "01",
+            "name": "Github",
+            "icon": "https://image.flaticon.com/icons/svg/25/25231.svg",
+            "description": "GitHub is an American company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion.",
+            "link": "https://github.com"
+        },
+        {
+            "id": "02",
+            "name": "Linkedin",
+            "icon": "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png",
+            "description": "LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
+            "link": "https://linkedin.com"
+        }
+    ]
+}
