@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sliding-cards/static/css/main.9e898920.chunk.css",
+    "main.js": "/sliding-cards/static/js/main.0380cfd8.chunk.js",
+    "main.js.map": "/sliding-cards/static/js/main.0380cfd8.chunk.js.map",
+    "runtime~main.js": "/sliding-cards/static/js/runtime~main.7aee7c6d.js",
+    "runtime~main.js.map": "/sliding-cards/static/js/runtime~main.7aee7c6d.js.map",
+    "static/js/2.1f9707a2.chunk.js": "/sliding-cards/static/js/2.1f9707a2.chunk.js",
+    "static/js/2.1f9707a2.chunk.js.map": "/sliding-cards/static/js/2.1f9707a2.chunk.js.map",
+    "index.html": "/sliding-cards/index.html",
+    "precache-manifest.f0318fad5bdbb1f855531dee544059e5.js": "/sliding-cards/precache-manifest.f0318fad5bdbb1f855531dee544059e5.js",
+    "service-worker.js": "/sliding-cards/service-worker.js",
+    "static/css/main.9e898920.chunk.css.map": "/sliding-cards/static/css/main.9e898920.chunk.css.map"
+  }
+}
